@@ -13,6 +13,12 @@ namespace Netflix
         public Movie(float duration, int rating, string name)
         {
             this.Duration = duration;
+            this.rating = rating;
+            this.name = name;
+        }
+        public void MovieToList()
+        {
+
         }
     }
 }

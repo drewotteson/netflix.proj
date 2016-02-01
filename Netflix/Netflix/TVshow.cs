@@ -9,5 +9,11 @@ namespace Netflix
     class TVshow : Title
     {
         public List<TVshow> Episodes;
+
+        public void ShowToList()
+        {
+
+        }
     }
 }
+   

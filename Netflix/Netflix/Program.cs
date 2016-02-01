@@ -10,6 +10,10 @@ namespace Netflix
     {
         static void Main(string[] args)
         {
+            Genre NewGenre = new Genre();
+            Title title = new Title();
+            
+            
         }
     }
 }

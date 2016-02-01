@@ -8,5 +8,7 @@ namespace Netflix
 {
     class View
     {
+
+        //display various titles, ratings, etc.
     }
 }
